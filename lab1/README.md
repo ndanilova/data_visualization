@@ -1,2 +1,2 @@
 На гите плохо прогружается из-за размера, вот прямаяя ссылка на колаб:
-https://colab.research.google.com/github/ndanilova/data_visualization/blob/main/labs/ЛР3_Обеспечение_качества_данных.ipynb
+https://colab.research.google.com/drive/1PlQUVuRDr_YkYMPX42jKYGvXA9A3t5q0?usp=sharing
