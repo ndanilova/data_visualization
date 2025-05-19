@@ -1,8 +1,10 @@
 # **ВНИМАНИЕ** #
 
-нужный файл под названием lab2_collab
+Если на гите не прогружается файлик, то для прямого перехода в коллаб кликайте на котенка
 
-![эх картинка не загрузилась](../pics/punk.JPG)
+<br/>
+
+<a href="https://colab.research.google.com/drive/1YhNkSGeWeE_VlKM9kprYJe0sTOqBxT9x?usp=sharing"><img src="../pics/punk.JPG" width=80 height=80></a>
 
 
 
